@@ -1,0 +1,42 @@
+/* homepage stuff*/
+
+.tbar {
+    background-color: red;
+    margin: 0;
+    text-align: center;
+    font-family: 'Helvetica', sans-serif;
+    font-size: 40px;
+}
+
+.blurb {
+    font-family: 'Merriweather', 'times new roman', serif;
+    font-size: 18px;
+    font-weight: 400;
+    border-style: dotted;
+    border-color: red;
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+}
+
+.story1 {
+    font-family: 'Helvetica', sans-serif;
+    padding-right: 600px;
+    max-width: 600px;
+    position: absolute left;
+}
+
+/* Article 1 stuff*/
+
+h1 {
+    font-family: 'Helvetica', 'sans-serif';
+}
+
+p {
+    font-family: 'Merriweather', 'Times New Roman', serif;
+}
+
+.truarticle {
+    font-size: 25px;
+    min-width: 400px;
+}
